@@ -1,0 +1,12 @@
+OneNote
+ exe: ONENOTE.EXE
+Width: 654
+Height: 1087
+Left: 1273
+Top: 0
+Visual Studio Code
+ exe: Code.exe
+Width: 1280
+Height: 1080
+Left: 0
+Top: 0
